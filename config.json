@@ -1,0 +1,33 @@
+{
+  "seed": 42,
+  "dataset": "Helsinki-NLP/opus-100",
+  "dataset_config": "en-fr",
+  "direction": "fr-en",
+  "train_size": 30000,
+  "validation_size": 2000,
+  "test_size": 2000,
+  "lowercase": true,
+  "tokenizer": "unicode_regex_words_numbers_punctuation_v1",
+  "max_vocab_size": 10000,
+  "min_frequency": 2,
+  "max_source_tokens": null,
+  "max_target_tokens": null,
+  "embedding_dim": 128,
+  "hidden_dim": 256,
+  "num_layers": 1,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "optimizer": "Adam",
+  "teacher_forcing_ratio": 0.5,
+  "epochs": 5,
+  "checkpoint_selection": "lowest_validation_token_loss",
+  "decoding": "greedy",
+  "special_tokens": {
+    "<PAD>": 0,
+    "<UNK>": 1,
+    "<SOS>": 2,
+    "<EOS>": 3
+  },
+  "source_vocab_size": 10000,
+  "target_vocab_size": 10000
+}
