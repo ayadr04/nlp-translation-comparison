@@ -1,0 +1,15 @@
+{
+  "config.json": "519411e6322f18000e8076b5908ab4375157bf22f69c1090bde1c0f248f4f6be",
+  "data/prepared/split_audit.json": "a44b9dc455bac677dc492036788829591339cb0ca602b7ca7dee264ab3ad2ea0",
+  "data/prepared/test.jsonl": "cc1b451e3968288dfe2e1a6d8559afbd521727fe7e58714bdd6f0d6581649893",
+  "data/prepared/test_length_groups.csv": "725d15778e17094a5a2fedb001a90e5d1217820b3d213ac4243bc8520dc44192",
+  "data/prepared/train.jsonl": "7981b281bb0216370bb8594c08a45b10cbd88f700b3a60f8ea2d49aa668abce3",
+  "data/prepared/unknown_token_rates.csv": "c6845b5425259b4a50ee54f09ad41fcc70e189af67f0cdb4ca7bddaee940a8a2",
+  "data/prepared/validation.jsonl": "eaf447d12cf0ed5b2aa30c5aeff566133acbf9d7090e123b9f7c02fef1ec5a55",
+  "data/prepared/vocab_en.json": "3ecd0b1ca4d37a34ad285dd5f17dcc0b7fea874960cef92a1266e71b04f21654",
+  "data/prepared/vocab_fr.json": "5eb6ef958f9f14f1ae68499afaea81d01f42ba1b1ab99bb4f8afb7d3f70851b1",
+  "environment_versions.json": "f5537ae2a4109b0be678eeaf9b849a206f712c5b8991f6d076e2b710909f50fb",
+  "requirements.txt": "7cb6fd168b5c5af6c471ac365a768b7167869eb0329877547e1c44966c739598",
+  "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "src/data.py": "6edfe365a1141f6948202d4b0d0c2133ef09ee2c790cf4e6426f624dd9cf3737"
+}
