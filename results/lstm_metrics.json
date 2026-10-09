@@ -1,0 +1,13 @@
+{
+  "model": "LSTM sans attention",
+  "best_epoch": 5,
+  "validation_loss": 4.80406633484728,
+  "test_loss": 4.792028090656886,
+  "bleu": 1.2403945181654363,
+  "bleu_signature": "nrefs:1|case:lc|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "training_minutes": 22.57576052181666,
+  "num_parameters": 5920528,
+  "max_generation_steps": 100,
+  "test_sentences": 2000,
+  "sentences_without_eos": 22
+}
