@@ -1,0 +1,4 @@
+Categorie,BLEU,chrF,TER
+Courte,2.93,9.1,97.79
+Moyenne,1.42,8.24,96.39
+Longue,0.85,8.05,101.53
