@@ -1,0 +1,12 @@
+{
+  "model": "LSTM avec attention de Bahdanau",
+  "teacher_forcing_ratio": 0.5,
+  "best_epoch": 4,
+  "decoding": "greedy_no_repeat_trigram",
+  "max_generation_steps": 100,
+  "detokenization": "MosesDetokenizer(lang=en)",
+  "test_bleu": 3.930902512373017,
+  "bleu_signature": "nrefs:1|case:lc|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "test_sentences": 2000,
+  "sentences_without_eos": 10
+}
