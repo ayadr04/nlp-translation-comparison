@@ -1,0 +1,3 @@
+-r requirements.txt
+# À installer seulement pour la traduction en direct TensorFlow.
+tensorflow>=2.16,<2.22

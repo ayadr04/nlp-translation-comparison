@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+.streamlit/secrets.toml
+models/*.keras
+models/*.h5
+models/*.weights.h5
+models/*.ckpt
+models/*.pkl
+models/*.pickle

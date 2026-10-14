@@ -227,3 +227,15 @@ checkpoints/
 # Fichiers temporaires
 __pycache__/
 .ipynb_checkpoints/
+.venv/
+
+# Modèles et archives
+*.pt
+*.pth
+*.zip
+
+
+# Secrets
+.env
+.env.*
+!.env.example

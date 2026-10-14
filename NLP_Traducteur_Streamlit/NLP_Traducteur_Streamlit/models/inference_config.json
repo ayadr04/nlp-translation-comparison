@@ -1,0 +1,9 @@
+{
+  "max_source_length": 30,
+  "max_target_length": 30,
+  "normalization": "none",
+  "source_start_token": "",
+  "source_end_token": "",
+  "target_start_token": "<start>",
+  "target_end_token": "<end>"
+}
